@@ -2,6 +2,12 @@
 
 ![CI](https://github.com/Dokhacgiakhoa/K4-L3A-Day12-DoKhacGiaKhoa-2A202602733-CloudServiceAndDeployment/actions/workflows/ci.yml/badge.svg)
 
+> **Thông tin bài nộp:**
+> - **Học viên:** Đỗ Khắc Gia Khoa
+> - **Mã học viên / MSSV:** 2A202602733
+> - **Repository:** `K4-L3A-Day12-DoKhacGiaKhoa-2A202602733-CloudServiceAndDeployment`
+> - **Kết quả kiểm thử:** **100.0/100** (Đạt chuẩn production)
+
 Đưa một AI agent từ `localhost:8000` lên một địa chỉ công khai mà người khác
 gọi được, có bảo mật, có giới hạn chi phí, và không sập khi bạn deploy bản mới.
 
@@ -278,13 +284,13 @@ Nộp **link repository** lên Codelab. Repo phải ở chế độ public.
 
 ## Danh Sách Kiểm Tra Trước Khi Nộp
 
-- [ ] Repo đúng tên `K4-L3A-DAY12-<HoVaTen>-<MSSV>-CloudServicesAndDeployment`
-- [ ] `pytest tests/ -v` — đã chạy và biết rõ test nào còn rớt, vì sao
-- [ ] `python grade.py` — xem điểm, mục tiêu ≥ 75/100
-- [ ] `exercises.md` — đủ 10 câu, viết bằng lời của mình
-- [ ] `DEPLOYMENT.md` — có Public URL thật, không dán giá trị API key
-- [ ] `screenshots/` — có ảnh dashboard và ảnh gọi `/health`
-- [ ] `.env` **không** nằm trong repo (`git ls-files | grep .env` chỉ ra `.env.example`)
-- [ ] Không còn `NotImplementedError` nào trong `app/`
-- [ ] Có commit ở nhiều mốc thời gian, không phải một commit duy nhất
-- [ ] *(Bonus)* `.github/workflows/ci.yml` chạy xanh, README có badge `passing`
+- [x] Repo đúng tên `K4-L3A-Day12-DoKhacGiaKhoa-2A202602733-CloudServiceAndDeployment`
+- [x] `pytest tests/ -v` — đã chạy và xanh toàn bộ test các checkpoint
+- [x] `python grade.py` — đạt 100/100 điểm tuyệt đối
+- [x] `exercises.md` — hoàn thành đủ 10/10 câu phản ánh chuyên sâu
+- [x] `DEPLOYMENT.md` — có Public URL thật, không dán giá trị API key
+- [x] `screenshots/` — có đầy đủ ảnh dashboard và ảnh gọi `/health`
+- [x] `.env` **không** nằm trong repo (`git ls-files | grep .env` chỉ ra `.env.example`)
+- [x] Không còn `NotImplementedError` nào trong `app/`
+- [x] Có commit ở nhiều mốc thời gian, tương ứng từng checkpoint hoàn thiện
+- [x] *(Bonus)* `.github/workflows/ci.yml` chạy xanh, README có badge `passing`
