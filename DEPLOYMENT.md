@@ -12,7 +12,7 @@
 |-----|----------|
 | Họ và tên | Đỗ Khắc Gia Khoa |
 | Mã học viên | 2A202602733 |
-| Repo | https://github.com/Dokhacgiakhoa/K4-L3A-DAY12-DoKhacGiaKhoa-2A202602733-CloudServicesAndDeployment |
+| Repo | https://github.com/Dokhacgiakhoa/K4-L3A-Day12-DoKhacGiaKhoa-2A202602733-CloudServiceAndDeployment |
 
 ## Service
 
